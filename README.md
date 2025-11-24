@@ -1,4 +1,4 @@
-🐶 Dog Breed Classification with Deep Learning
+🐶 Dog Breed Recognition with Deep Learning
 
 This project explores the challenge of automatically classifying dog breeds using state-of-the-art deep learning and supervised learning techniques.
 
